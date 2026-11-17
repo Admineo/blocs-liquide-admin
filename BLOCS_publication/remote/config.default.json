@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "rev": 1,
+  "rotations": 5,
+  "specialEvery": 15,
+  "levels": {},
+  "endless": { "goalStep": 800, "undo": 0, "preMax": 14 },
+  "disabledShapes": [],
+  "customShapes": [],
+  "notice": null
+}

@@ -1,0 +1,3 @@
+# Adresse publique de votre fichier config.json (voir remote/README_PLATEFORME.md).
+# Exemple :  https://votrenom.github.io/blocs-config/config.json
+# Laissez vide (aucune ligne sans #) pour désactiver les réglages à distance.
